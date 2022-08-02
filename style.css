@@ -1,0 +1,82 @@
+a {
+  text-decoration: none;
+  color: darkslategray;
+}
+a:visited {
+  color: darkcyan;
+}
+a:hover {
+  color: darkblue;
+}
+
+body {
+  background-color: #deffb6;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(12, 20, 134);
+}
+
+nav {
+  background-color: rgb(224, 216, 255);
+}
+
+aside {
+  background-color: #3cb371;
+}
+nav, aside {
+  color: black;
+}
+
+section {
+  border-style: ridge;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  font-size: 3em;
+  text-shadow: 2px 2px lightblue;
+}
+h2 {
+  text-align: center;
+}
+h4 {
+  box-shadow: 2px 2px;
+}
+
+main {
+  background-color: lemonchiffon;
+  width: 90%;
+  margin:auto;
+}
+
+span {
+  font-weight: 100;
+}
+
+.construction {
+  color: orangered;
+}
+
+.about {
+  color:rgb(224, 216, 255)
+}
+
+.section1 {
+  text-shadow: 2px 2px;
+  color: gray
+}
+.section2 {
+  text-shadow: 2px 2px;
+  color: peru
+}
+.section3 {
+  text-shadow: 2px 2px;
+  color: yellowgreen
+}
